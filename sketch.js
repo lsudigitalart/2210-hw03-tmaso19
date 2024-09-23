@@ -25,5 +25,5 @@ function draw(){
          square(0 + x, i, 6 - i/20, 10 - i/17)
         }    
     }
-    
-   }
+    //
+   } 
